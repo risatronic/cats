@@ -2,4 +2,9 @@
     Require all denied
 </IfModule>
 <IfModule !authz_core_module>
+<<<<<<< HEAD
     Deny from all
+=======
+    Deny from all
+</IfModule>
+>>>>>>> origin/master
